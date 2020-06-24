@@ -9,8 +9,10 @@ namespace IterationStatements
         {
             //TODO
 
-            //Create a List called "numbers"
-            //Create a variable of type int with an initializer of 0
+            //Create a List called "numbers" - DONE
+            var numbers = new List<int>();
+            
+            //Create a variable of type int and initialize the variable with a value of 0
 
 
 
