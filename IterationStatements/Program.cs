@@ -44,7 +44,7 @@ namespace IterationStatements
 
             // Create a for loop
             // in your initializer set the value of i to 199
-            // in your conditional, as long as i is less than or equal to the length of "numbers"
+            // in your conditional, as long as i is less than or equal to the amount of items in "numbers" (numbers.Count)
             // and as long as i is greater than or equal to 0
             // Decrement i by 1
             {
