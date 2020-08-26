@@ -19,7 +19,9 @@ namespace IterationStatements
             // Create a do-while loop
             {
                 // Increment your variable by 1
+
                 // Then add your variable to "numbers"
+                numbers.Add(/* variable name goes here */);
             }
             // While your variable is less than 100
 
